@@ -32,4 +32,5 @@ export default {
       extensions: ['.css'],
     }),
   ],
+  external: ["react", "react-dom"],
 };
