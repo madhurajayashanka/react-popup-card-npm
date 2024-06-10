@@ -1,5 +1,5 @@
 {
-  "name": "react-popup-card",
+  "name": "react-popup-cards",
   "version": "1.0.0",
   "description": "The Popup component is a customizable modal dialog for React applications. It allows you to display messages, titles, and emojis with an action button. The popup can be configured to close automatically when clicking outside of it.",
   "main": "dist/index.js",
