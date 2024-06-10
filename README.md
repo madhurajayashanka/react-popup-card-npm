@@ -20,14 +20,14 @@ The Popup component is a customizable modal dialog for React applications. It al
 You can install the Popup component from npm:
 
 ```bash
-npm install react-popup-card
+npm i react-popup-card-npm
 ```
 
 ## Usage
 
 1. **Import the Popup component:**
    ```jsx
-   import { PopupCard }  from 'react-popup-card';
+   import { PopupCard }  from 'react-popup-card-npm';
    ```
 
 2. **Use the Popup component in your application:**
