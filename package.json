@@ -1,0 +1,49 @@
+{
+  "name": "react-popup-card",
+  "version": "1.0.0",
+  "description": "The Popup component is a customizable modal dialog for React applications. It allows you to display messages, titles, and emojis with an action button. The popup can be configured to close automatically when clicking outside of it.",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [
+    "react",
+    "popup",
+    "card"
+  ],
+  "author": "Madhura Jayashanka",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^26.0.1",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "rollup": "^4.18.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.2",
+    "rollup-plugin-typescript2": "^0.36.0",
+    "typescript": "^5.4.5"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madhurajayashanka/react-popup-card-npm"
+  },
+  "bugs": {
+    "url": "https://github.com/madhurajayashanka/react-popup-card-npm/issues"
+  },
+  "homepage": "https://github.com/madhurajayashanka/react-popup-card-npm#README",
+  "type": "module"
+}
